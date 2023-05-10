@@ -139,7 +139,7 @@
 .quform-elements .quform-element-password input:focus,
 .quform-elements .quform-element select:focus,
 .quform-elements .quform-element textarea:focus
-{color: #000;}
+
 
 /* Default Label*/
 .quform-element > label {

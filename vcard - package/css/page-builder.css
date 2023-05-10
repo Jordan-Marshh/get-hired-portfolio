@@ -180,7 +180,7 @@
 .gdlr-core-input-wrap.gdlr-core-no-border textarea{ border: none; }
 .gdlr-core-input-wrap.gdlr-core-bottom-border input:not([type="button"]):not([type="submit"]):not([type="file"]), 
 .gdlr-core-input-wrap.gdlr-core-bottom-border textarea{ padding-left: 0px; padding-right: 0px; 
-	font-size: 16px; border-width: 0px 0px 2px 0px; background: transparent; }
+	font-size: 16px; border-width: 0px 0px 2px 0px; background: white; }
 .gdlr-core-input-wrap.gdlr-core-bottom-border{ margin-left: -20px; margin-right: -20px; }
 .gdlr-core-input-wrap.gdlr-core-bottom-border [class^="gdlr-core-column-"]{ padding-left: 20px; padding-right: 20px; }
 .gdlr-core-input-wrap.gdlr-core-full-width input:not([type="button"]):not([type="reset"]):not([type="submit"]):not([type="file"]):not([type="checkbox"]):not([type="radio"]),

@@ -208,7 +208,7 @@ body.onepagepro-boxed .onepagepro-body-wrapper, .gdlr-core-page-builder .gdlr-co
 .onepagepro-page-title-wrap .onepagepro-page-caption{ color: #ffffff; }.onepagepro-page-title-wrap .onepagepro-page-caption .woocommerce-breadcrumb, .onepagepro-page-title-wrap .onepagepro-page-caption .woocommerce-breadcrumb a{ color: #ffffff; } 
 .onepagepro-page-title-wrap .onepagepro-page-title-overlay{ background-color: #2d2d2d; } 
 .onepagepro-body, .onepagepro-body span.wpcf7-not-valid-tip{ color: #9b9b9b; } 
-.onepagepro-body h1, .onepagepro-body h2, .onepagepro-body h3, .onepagepro-body h4, .onepagepro-body h5, .onepagepro-body h6{ color: #383838; }.woocommerce table.shop_attributes th, .woocommerce table.shop_table th, .single-product.woocommerce div.product .product_meta .onepagepro-head{ color: #383838; } 
+.onepagepro-body h1, .onepagepro-body h2, .onepagepro-body h3, .onepagepro-body h4, .onepagepro-body h5, .onepagepro-body h6{ color: #ffffff; }.woocommerce table.shop_attributes th, .woocommerce table.shop_table th, .single-product.woocommerce div.product .product_meta .onepagepro-head{ color: #ffffff; } 
 .onepagepro-body a{ color: #545454; } 
 .onepagepro-body a:hover{ color: #333333; } 
 .onepagepro-body *{ border-color: #e2e2e2; }.gdlr-core-columnize-item .gdlr-core-columnize-item-content{ column-rule-color: #e2e2e2; -moz-column-rule-color: #e2e2e2; -webkit-column-rule-color: #e2e2e2; } 
@@ -264,11 +264,11 @@ ul.gdlr-core-twitter-widget-wrap li .gdlr-core-twitter-widget-date a, ul.gdlr-co
 .onepagepro-comments-area .comment-respond{ background-color: #f9f9f9; } 
 .onepagepro-comments-area .comment-reply a, .onepagepro-comments-area .comment-reply a:hover{ color: #bcbcbc; } 
 .onepagepro-comments-area .comment-time a, .onepagepro-comments-area .comment-time a:hover{ color: #b1b1b1; } 
-.gdlr-core-blog-title a, .onepagepro-body .onepagepro-single-article-title, .onepagepro-body .onepagepro-single-article-title a{ color: #343434; } 
-.gdlr-core-blog-title a:hover, .onepagepro-body .onepagepro-single-article-title a:hover{ color: #343434; } 
+.gdlr-core-blog-title a, .onepagepro-body .onepagepro-single-article-title, .onepagepro-body .onepagepro-single-article-title a{ color: #000000; } 
+.gdlr-core-blog-title a:hover, .onepagepro-body .onepagepro-single-article-title a:hover{ color: #684eeb; } 
 .gdlr-core-sticky-banner, .onepagepro-sticky-banner{ color: #444444; } 
 .gdlr-core-sticky-banner, .onepagepro-sticky-banner{ background-color: #f3f3f3; } 
-.onepagepro-single-article .onepagepro-blog-info-wrapper, .onepagepro-single-article .onepagepro-blog-info-wrapper a, .onepagepro-single-article .onepagepro-blog-info-wrapper a:hover, .gdlr-core-blog-info-wrapper, .gdlr-core-blog-info-wrapper a{ color: #959595; } 
+.onepagepro-single-article .onepagepro-blog-info-wrapper, .onepagepro-single-article .onepagepro-blog-info-wrapper a, .onepagepro-single-article .onepagepro-blog-info-wrapper a:hover, .gdlr-core-blog-info-wrapper, .gdlr-core-blog-info-wrapper a{ color: #000000; } 
 .onepagepro-single-article .onepagepro-blog-info-wrapper i, .gdlr-core-blog-info-wrapper i{ color: #959595; } 
 .gdlr-core-blog-date-wrapper .gdlr-core-blog-date-day, .onepagepro-single-article .onepagepro-single-article-date-day{ color: #353535; } 
 .gdlr-core-blog-date-wrapper .gdlr-core-blog-date-month, .onepagepro-single-article .onepagepro-single-article-date-month{ color: #8a8a8a; } 
@@ -375,7 +375,7 @@ blockquote, q{ background-color: #f5f5f5; }
 .gdlr-core-image-overlay-content, .gdlr-core-image-overlay-content a, .gdlr-core-image-overlay-icon{ color: #333333; }.gdlr-core-page-builder-body [data-skin] .gdlr-core-image-overlay-icon, .gdlr-core-page-builder-body .gdlr-core-pbf-column[data-skin] .gdlr-core-image-overlay-icon{ color: #333333; } 
 .gdlr-core-image-overlay.gdlr-core-round-icon .gdlr-core-image-overlay-icon{ background-color: #ffffff; } 
 .gdlr-core-body .gdlr-core-image-item-wrap{ border-color: #000000; } 
-.gdlr-core-block-item-title-wrap .gdlr-core-block-item-title{ color: #343434; } 
+.gdlr-core-block-item-title-wrap .gdlr-core-block-item-title{ color:#000000; } 
 .gdlr-core-block-item-title-wrap .gdlr-core-block-item-caption{ color: #747474; } 
 .gdlr-core-block-item-title-wrap a, .gdlr-core-block-item-title-wrap a:hover{ color: #747474; } 
 .gdlr-core-icon-list-item i{ color: #222222; } 
