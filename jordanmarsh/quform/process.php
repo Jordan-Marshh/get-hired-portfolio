@@ -59,7 +59,7 @@ $config['recipients'] = 'jordankylemarsh@outlook.com';
  *
  * $config['from'] = '%email%';
  */
-$config['from'] = 'jordankylemarsh@outlook.com';
+$config['from'] = 'jordan.2022jatc@gmail.com';
 
 /**
  * The subject of the notification email message. %first_name% will be replaced

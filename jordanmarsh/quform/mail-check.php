@@ -29,7 +29,7 @@
 /*
  * Step 1 - Enter the recipient email address
  */
-$to = 'me@example.com';
+$to = 'jordankylemarsh@outlook.com';
 
 /*
  * Step 2 - Enter a "From" email address
