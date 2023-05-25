@@ -128,7 +128,7 @@
 .quform-elements .quform-element-captcha input:hover,
 .quform-elements .quform-element-password input:hover,
 .quform-elements .quform-element select:hover,
-.quform-elements .quform-element textarea:hover,
+.quform-elements .quform-element textarea,
 .quform-elements .quform-element-text input:active,
 .quform-elements .quform-element-captcha input:active,
 .quform-elements .quform-element-password input:active,
@@ -143,7 +143,6 @@
 
 /* Default Label*/
 .quform-element > label {
-	font-weight: bold;
 	padding-bottom: 10px;
 	position: relative;
 	display: inline-block;
